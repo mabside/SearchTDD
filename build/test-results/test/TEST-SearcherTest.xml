@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SearcherTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-02-08T01:11:57" hostname="Mubaraqs-MacBook-Pro.local" time="0.038">
+  <properties/>
+  <testcase name="multipleCitiesFound()" classname="SearcherTest" time="0.031"/>
+  <testcase name="cityFound()" classname="SearcherTest" time="0.001"/>
+  <testcase name="genericQuery()" classname="SearcherTest" time="0.0"/>
+  <testcase name="anotherCityFound()" classname="SearcherTest" time="0.001"/>
+  <testcase name="noCityFound()" classname="SearcherTest" time="0.001"/>
+  <testcase name="shortQuery()" classname="SearcherTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
